@@ -16,7 +16,7 @@ class Dog
   def self.all
     @@all.each do |object|
 
-      puts "#{objext}"
+      puts "#{object}"
     end
   end
 
